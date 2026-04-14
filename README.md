@@ -8,7 +8,6 @@
 > A powerful AI-driven backend system that helps researchers discover, analyze, and summarize academic papers using a multi-agent architecture powered by Google's Gemini AI and arXiv API.
 
 ### Demo URL - https://minor-deploy-64gx.vercel.app
-### Demo Credentials - kunalx1@gmail.com, Pass- Kunal@1234 
 
 ## 📋 Table of Contents
 
@@ -295,8 +294,8 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Kunal-Rathore/Backend_For_ResearchPaper_Copilot.git
-cd Backend_For_ResearchPaper_Copilot
+git clone https://github.com/Archita-26/Minor_Project_AI_Automated_Research_Agent
+cd Minor_Project_AI_Automated_Research_Agent
 ```
 
 2. **Install dependencies**
@@ -1376,8 +1375,8 @@ This project is licensed under the **ISC License**.
 
 ## 👤 Author
 
-**Kunal Rathore**
-- GitHub: [@Kunal-Rathore](https://github.com/Kunal-Rathore)
+**Archita Temre**
+- GitHub: [@Archita-26](https://github.com/Archita-26)
 
 ---
 
@@ -1397,7 +1396,7 @@ If you encounter any issues or have questions:
 
 1. Check the [API Documentation](#-api-documentation)
 2. Review [Common Errors](#-error-handling)
-3. Search existing [GitHub Issues](https://github.com/Kunal-Rathore/Backend_For_ResearchPaper_Copilot/issues)
+3. Search existing [GitHub Issues](https://github.com/Archita-26/Minor_Project_AI_Automated_Research_Agent/issues)
 4. Create a new issue with detailed information
 
 ---
