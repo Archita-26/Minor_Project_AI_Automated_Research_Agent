@@ -1300,8 +1300,8 @@ We welcome contributions to improve the Research Paper Copilot! Here's how you c
 
 1. **Fork the repository**
 ```bash
-git clone https://github.com/your-username/Backend_For_ResearchPaper_Copilot.git
-cd Backend_For_ResearchPaper_Copilot
+git clone https://github.com/Archita-26/Minor_Project_AI_Automated_Research_Agent
+cd Minor_Project_AI_Automated_Research_Agent
 ```
 
 2. **Create a feature branch**
